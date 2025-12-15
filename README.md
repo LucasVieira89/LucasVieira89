@@ -1,4 +1,18 @@
-## Hi there 👋
+👋 Olá, eu sou o Lucas
+
+Sou estudante de programação com foco em desenvolvimento back-end.
+Atualmente estudo pela plataforma Alura e desenvolvo projetos práticos.
+
+Atualmente, estudo:
+- C#
+- .NET
+- LINQ
+- SQL
+- APIs
+- Git e GitHub
+
+
+
 
 <!--
 **LucasVieira89/LucasVieira89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
