@@ -3,7 +3,7 @@
 Sou estudante de programação com foco em desenvolvimento back-end.
 Atualmente estudo pela plataforma Alura e desenvolvo projetos práticos.
 
-Atualmente, estudo:
+Tecnologias em estudo:
 - C#
 - .NET
 - LINQ
